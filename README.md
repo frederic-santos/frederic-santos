@@ -1,4 +1,4 @@
-# Hi there!
+## Hi there!
 
 ```emacs-lisp
 (defconst frederic-santos-alist
@@ -7,7 +7,7 @@
     (languages . '("bash" "emacs-lisp" "julia" "R"))))
 ```
 
-# GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/frederic-santos/frederic-santos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederic-santos&hide=css,html,lua&theme=solarized-light" alt="Frédéric's GitHub Stats" />
